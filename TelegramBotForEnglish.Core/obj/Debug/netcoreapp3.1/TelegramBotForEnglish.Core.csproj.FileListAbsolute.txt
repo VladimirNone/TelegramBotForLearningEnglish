@@ -1,0 +1,9 @@
+E:\Programs\TelegramBotForEnglish\TelegramBotForEnglish.Core\bin\Debug\netcoreapp3.1\TelegramBotForEnglish.Core.deps.json
+E:\Programs\TelegramBotForEnglish\TelegramBotForEnglish.Core\bin\Debug\netcoreapp3.1\TelegramBotForEnglish.Core.dll
+E:\Programs\TelegramBotForEnglish\TelegramBotForEnglish.Core\obj\Debug\netcoreapp3.1\TelegramBotForEnglish.Core.AssemblyInfoInputs.cache
+E:\Programs\TelegramBotForEnglish\TelegramBotForEnglish.Core\obj\Debug\netcoreapp3.1\TelegramBotForEnglish.Core.AssemblyInfo.cs
+E:\Programs\TelegramBotForEnglish\TelegramBotForEnglish.Core\bin\Debug\netcoreapp3.1\TelegramBotForEnglish.Core.pdb
+E:\Programs\TelegramBotForEnglish\TelegramBotForEnglish.Core\obj\Debug\netcoreapp3.1\TelegramBotForEnglish.Core.csprojAssemblyReference.cache
+E:\Programs\TelegramBotForEnglish\TelegramBotForEnglish.Core\obj\Debug\netcoreapp3.1\TelegramBotForEnglish.Core.csproj.CoreCompileInputs.cache
+E:\Programs\TelegramBotForEnglish\TelegramBotForEnglish.Core\obj\Debug\netcoreapp3.1\TelegramBotForEnglish.Core.dll
+E:\Programs\TelegramBotForEnglish\TelegramBotForEnglish.Core\obj\Debug\netcoreapp3.1\TelegramBotForEnglish.Core.pdb
